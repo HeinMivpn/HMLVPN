@@ -2,6 +2,11 @@
    "files": [  
 
 {
+         "name": "TH-Dtac",
+         "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-Dtac.ovpn"
+      },
+
+{
          "name": "TH-Dtac1",
          "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-Dtac.ovpn"
       },
@@ -27,39 +32,34 @@
       },
 
 {
-         "name": "TH-Dtac6",
-         "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-Dtac.ovpn"
-      },
-
-{
          "name": "TH-True1",
          "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-True.ovpn"
-      }
+      },
 
 {
          "name": "TH-True2",
          "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-True.ovpn"
-      }
+      },
 
 {
          "name": "TH-True3",
          "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-True.ovpn"
-      }
+      },
 
 {
          "name": "TH-True4",
          "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-True.ovpn"
-      }
+      },
 
 {
          "name": "TH-True5",
          "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-True.ovpn"
-      }
+      },
 
 {
          "name": "TH-True6",
          "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-True.ovpn"
-      }
+      },
 
 
    ],
