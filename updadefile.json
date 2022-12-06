@@ -1,11 +1,5 @@
 {
    "files": [  
-
-{
-         "name": "TH-Dtac",
-         "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-Dtac.ovpn"
-      },
-
 {
          "name": "TH-Dtac1",
          "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-Dtac.ovpn"
@@ -59,7 +53,7 @@
 {
          "name": "TH-True6",
          "url": "https://raw.githubusercontent.com/HeinMivpn/HMLVPN/main/TH-True.ovpn"
-      },
+      }
 
 
    ],
